@@ -199,3 +199,33 @@ DriveAlert supports two camera modes directly from the UI:
 ## License
 
 MIT License – Free to use for educational and non-commercial purposes.
+
+
+## 🎯 Project Objective
+
+To develop an AI-based driver monitoring system that detects driver drowsiness using computer vision and provides alerts.
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- OpenCV
+- HTML
+- CSS
+- JavaScript
+
+## 🔮 Future Enhancements
+
+- Improve drowsiness detection accuracy.
+- Enhance alerts and notifications.
+- Improve performance in different lighting conditions.
+
+## 👨‍💻 Developer
+
+**Dharnidharan SS**
+
+B.Tech Artificial Intelligence and Data Science
+
+## ⚠️ Disclaimer
+
+This project is developed for educational purposes only. It is not a certified automotive safety system.
